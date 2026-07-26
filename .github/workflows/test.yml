@@ -3,7 +3,7 @@ name : testing testing workflow
 #events to fire the workflow
 on : 
     push:
-        branches: Main
+        branches: hello
 #the jobs you want to automate
 jobs:
 # your first job name
